@@ -1,5 +1,5 @@
 # ft_ls
-Simplified POSIX command of ls.
+Simplified POSIX command ls.
 
 `Usage : ./ft_ls [-Raflrt1] [file ...]`
 
